@@ -29,12 +29,12 @@ ul {
     display: flex;
     background-color: #1F2937;
     justify-content: space-between;
-    padding: 16px 50px;
+    padding: 16px 250px;
 }
 
 .box-1 {
     display: flex;
-    padding: 100px 50px;
+    padding: 100px 250px;
     background-color: #1F2937;
 }
 
