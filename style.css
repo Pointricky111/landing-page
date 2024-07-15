@@ -47,6 +47,7 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    margin-right: 100px;
 }
 
 .hero-text {
@@ -63,4 +64,5 @@ color: #E5E7EB;
 button {
     background-color: #3882F6;
     color: white;
+    
 }
