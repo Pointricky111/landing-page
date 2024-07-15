@@ -10,13 +10,14 @@ img {
 
 a {
     text-decoration: none;
+    color: white;
 }
 
 ul {
-    display: flex;
     list-style-type: none;
 }
 
 .header {
     display: flex;
+    background-color: navy;
 }
