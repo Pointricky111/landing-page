@@ -7,7 +7,7 @@ body {
     margin: 0px;
 }
 
-img {
+.lawyer-1 {
     width: 200px;
     height: 100px;
 }
@@ -35,4 +35,9 @@ ul {
     display: flex;
     padding: 100px 50px;
     background-color: #1F2937;
+}
+
+.lawyer-2 {
+    height: 200px;
+    width: 200px;
 }
