@@ -36,11 +36,12 @@ ul {
     display: flex;
     padding: 100px 50px;
     background-color: #1F2937;
+    
 }
 
 .lawyer-2 {
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 500px;
 }
 
 .hero-text {
