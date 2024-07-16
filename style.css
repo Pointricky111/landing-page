@@ -86,3 +86,8 @@ button {
     display: flex;
     justify-content: space-between;
 }
+
+.review-img {
+    height: 50px;
+    width: 50px;
+}
