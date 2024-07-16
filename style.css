@@ -81,3 +81,8 @@ button {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.reviews {
+    display: flex;
+    justify-content: space-between;
+}
