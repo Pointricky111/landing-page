@@ -84,14 +84,15 @@ button {
 
 .reviews {
     display: flex;
-    justify-content: space-between;
     gap: 25px;
     margin: 50px;
+    text-align: center;
 }
 
 .review-img {
     height: 250px;
     width: 200px;
+    margin-bottom: 16px;
     border: solid #3882F6;
     border-radius: 8px;
     display: flex;
