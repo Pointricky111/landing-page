@@ -85,7 +85,7 @@ button {
 .reviews {
     display: flex;
     justify-content: space-between;
-    gap: 16px;
+    gap: 25px;
     margin: 50px;
 }
 
