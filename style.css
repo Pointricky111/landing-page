@@ -99,3 +99,6 @@ button {
     flex-direction: column;
 }
 
+.review-boxes {
+    width: 200px;
+}
