@@ -151,3 +151,11 @@ color: #E5E7EB;
     background-color: #3882F6;
     color: white;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 25px 0px 25px 0px;
+    background-color: #1F2937;
+    color: white;
+}
