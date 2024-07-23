@@ -61,7 +61,7 @@ font-size: 18px;
 color: #E5E7EB;
 }
 
-button {
+.hero-button {
     background-color: #3882F6;
     color: white;
     width: 100px;
@@ -141,4 +141,13 @@ button {
     font-weight: bold;
     font-size: large;
     margin-bottom: 8px;
+}
+
+.cta-button {
+    width: 100px;
+    height: 30px;
+    border-radius: 25px;
+    border-color: white;   
+    background-color: #3882F6;
+    color: white;
 }
