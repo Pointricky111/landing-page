@@ -123,3 +123,12 @@ button {
     font-weight: bold;
     font-size: 22px;
 }
+
+.box-4 {
+    margin: 100px 250px;
+    padding: 25px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6;
+}
