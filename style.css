@@ -132,3 +132,12 @@ button {
     align-items: center;
     background-color: #3882F6;
 }
+
+.cta-hook, .cta-text {
+    color: white;
+}
+
+.cta-hook {
+    font-weight: bold;
+    font-size: large;
+}
